@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Gsdhumal07/my-app.git/static/css/main.abd64e84.css",
+    "main.js": "/git@github.com:Gsdhumal07/my-app.git/static/js/main.fff4f095.js",
+    "static/js/787.28cb0dcd.chunk.js": "/git@github.com:Gsdhumal07/my-app.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/git@github.com:Gsdhumal07/my-app.git/index.html",
+    "main.abd64e84.css.map": "/git@github.com:Gsdhumal07/my-app.git/static/css/main.abd64e84.css.map",
+    "main.fff4f095.js.map": "/git@github.com:Gsdhumal07/my-app.git/static/js/main.fff4f095.js.map",
+    "787.28cb0dcd.chunk.js.map": "/git@github.com:Gsdhumal07/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.fff4f095.js"
+  ]
+}
